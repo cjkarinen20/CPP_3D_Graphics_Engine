@@ -1,11 +1,11 @@
-﻿  cppEngine3D.cpp
+﻿  Part2.cpp
 C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
 C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(160,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(160,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(159,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(159,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(158,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\cppEngine3D.cpp(158,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(240,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(240,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(239,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(239,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(238,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\Part2.cpp(238,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   cppEngine3D.vcxproj -> C:\Users\honey\Documents\GitHub\CPP_3D_Graphics_Engine\cppEngine3D\x64\Debug\cppEngine3D.exe
